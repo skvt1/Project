@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - NPC
+<<<<<<< HEAD
+=======
+  - DialogueManager
+>>>>>>> Feature/Диалоги
   layers:
   - Default
   - TransparentFX
@@ -41,4 +45,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 1893352587
+    locked: 0
+  - name: Stuff
+    uniqueID: 3320181885
     locked: 0
